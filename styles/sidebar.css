@@ -16,7 +16,7 @@ div.sidebar {
 
 div.sidebar-link {
 	display: flex;
-	/* Vertical Centring */
+	/* Vertical centring */
 	align-items: center;
 }
 
@@ -31,7 +31,7 @@ div.sidebar-link div {
 
 	div.sidebar-link {
 		height: 74px;
-		/* Horizontal Centring */
+		/* Horizontal centring */
 		justify-content: center;
 		/* "Switch" align-items / justify-content properties */
 		flex-direction: column;
